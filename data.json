@@ -8,7 +8,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car1.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "ekanom"
   },
 
   {
@@ -20,7 +21,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car2.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "ekanom"
   },
   {
     "id": 3,
@@ -31,7 +33,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car3.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "ekanom"
   },
   {
     "id": 4,
@@ -42,7 +45,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car4.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "ekanom"
   },
   {
     "id": 5,
@@ -53,7 +57,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car5.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "ekanom"
   },
   {
     "id": 6,
@@ -64,7 +69,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car6.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "ekanom"
   },
   {
     "id": 7,
@@ -75,7 +81,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car7.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "super"
   },
   {
     "id": 8,
@@ -86,7 +93,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car8.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "super"
   },
   {
     "id": 9,
@@ -97,7 +105,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car9.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "super"
   },
   {
     "id": 10,
@@ -108,7 +117,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car10.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "super"
   },
 
   {
@@ -120,7 +130,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car11.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "gruz"
   },
   {
     "id": 12,
@@ -131,7 +142,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car12.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "gruz"
   },
   {
     "id": 13,
@@ -142,7 +154,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car13.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "gruz"
   },
   {
     "id": 14,
@@ -153,7 +166,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car14.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "gruz"
   },
   {
     "id": 15,
@@ -164,7 +178,8 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car15.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "gruz"
   },
   {
     "id": 16,
@@ -175,6 +190,7 @@
     "skors": "Automatic",
     "benzin": "1-lit / 2.5 km",
     "img": "./image/car16.png",
-    "tep": "Compact"
+    "tep": "Compact",
+    "info": "gruz"
   }
 ]

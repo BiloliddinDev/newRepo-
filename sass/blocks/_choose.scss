@@ -148,3 +148,20 @@
     }
   }
 }
+
+.choose__link {
+  position: absolute;
+  left: 50%;
+  padding: 19px 40px;
+  background-color: #299764;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  border-radius: 100px;
+  color: #ffffff;
+  margin-top: 40px;
+  transform: translateX(-50%);
+  margin-bottom: 100px;
+}
