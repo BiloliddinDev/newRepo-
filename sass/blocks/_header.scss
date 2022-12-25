@@ -3,6 +3,8 @@
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 100;
+  background-color: var(--bady-color);
   border-bottom: 1px solid #e5e7ea;
 
   &__nav {

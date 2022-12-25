@@ -386,6 +386,8 @@ template {
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 100;
+  background-color: var(--bady-color);
   border-bottom: 1px solid #e5e7ea;
 }
 .header__nav {
@@ -595,4 +597,31 @@ template {
     top: 416px;
     left: 20px;
   }
+}
+.showcase {
+  margin-top: 100px;
+  position: relative;
+}
+.showcase__box {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+.showcase__title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 44px;
+  text-align: center;
+  color: #ffffff;
+}
+.showcase__text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  color: #ffffff;
 }/*# sourceMappingURL=main.css.map */
