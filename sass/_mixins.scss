@@ -20,11 +20,13 @@
   justify-content: $justify;
 }
 
-@mixin before-after($position, $size) {
+@mixin before-after() {
   content: "";
-  background-position: $position;
+  width: 15px;
+  height: 15px;
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: $size;
+  background-size: auto;
 }
 
 @mixin breakpoint-up($size) {
