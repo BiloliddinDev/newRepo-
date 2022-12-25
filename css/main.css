@@ -1,3 +1,13 @@
+:root {
+  --bady-color: #ffffff;
+  --text-color: #000000;
+}
+
+.darc-mode {
+  --bady-color: #000000;
+  --text-color: #ffffff;
+}
+
 html {
   height: 100vh;
 }
@@ -369,4 +379,38 @@ template {
   font-style: normal;
   font-weight: 600;
   src: url("../fonts/montserrat-v25-latin-600.woff2") format("woff2"), url("../fonts/montserrat-v25-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.header__nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__wrapper {
+  display: flex;
+  gap: 36px;
+  align-items: center;
+}
+.header__list {
+  display: flex;
+  gap: 32px;
+  list-style: none;
+}
+.header__wrapper1 {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+.header__tel {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: var(--text-color);
+  text-decoration: none;
 }/*# sourceMappingURL=main.css.map */
