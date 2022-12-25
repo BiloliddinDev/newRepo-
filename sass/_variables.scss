@@ -1,6 +1,9 @@
-$-grean: #299764;
-$-black: #000000;
+:root {
+  --bady-color: #ffffff;
+  --text-color: #000000;
+}
 
-.darc__mode {
-  $-black: #ffffff;
+.darc-mode {
+  --bady-color: #000000;
+  --text-color: #ffffff;
 }
