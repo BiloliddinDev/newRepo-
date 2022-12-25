@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "name": "Ford Fiesta",
+    "tip": "Economy Car",
+    "place": "5 Seats",
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car1.png",
+    "tep": "Compact"
+  },
+
+  {
+    "id": 2,
+    "name": "Nissan Versa",
+    "tip": "Compact Car",
+    "place": "5 Seats",
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car2.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 3,
+    "name": "Toyota Corolla",
+    "tip": "Mid-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car3.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 4,
+    "name": "Nissan Rogue",
+    "tip": "Mid-size SUV",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car4.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 5,
+    "name": "Chevy Traverse",
+    "tip": "Full-size SUV ",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car5.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 6,
+    "name": "Nissan Altima",
+    "tip": "Full-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car6.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 7,
+    "name": "Royce rolls ghost",
+    "tip": "Full-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car7.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 8,
+    "name": "Mercedes s class",
+    "tip": "Full-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car8.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 9,
+    "name": "Lamborghini urus",
+    "tip": "Mid-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car9.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 10,
+    "name": "Mercedes g63 amg",
+    "tip": "Mid-size SUV",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car10.png",
+    "tep": "Compact"
+  },
+
+  {
+    "id": 11,
+    "name": "15-Passenger Ford Transit ",
+    "tip": "Full-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car11.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 12,
+    "name": "Chrysler Pacifica",
+    "tip": "Full-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car12.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 13,
+    "name": "Chevy Silverado 4500HD",
+    "tip": "Mid-size Car",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car13.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 14,
+    "name": "12-Passenger Ford Transit",
+    "tip": "Mid-size SUV",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car14.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 15,
+    "name": "15-Passenger Ford Transit ",
+    "tip": "Mid-size SUV",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car15.png",
+    "tep": "Compact"
+  },
+  {
+    "id": 16,
+    "name": "Mercedes-Benz Sprinter",
+    "tip": "Mid-size SUV",
+    "place": 5,
+    "year": "21+ Years",
+    "skors": "Automatic",
+    "benzin": "1-lit / 2.5 km",
+    "img": "./image/car16.png",
+    "tep": "Compact"
+  }
+]
