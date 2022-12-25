@@ -1,0 +1,150 @@
+.choose {
+  margin-top: 100px;
+
+  &__heading {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: var(--text-color);
+    margin-bottom: 10px;
+  }
+
+  &__text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #555555;
+    margin-bottom: 40px;
+  }
+
+  &__btns {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 24px;
+  }
+
+  &__btn {
+    padding: 19px 40px;
+    border-radius: 100px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: var(--text-color);
+    cursor: pointer;
+    border: 1.5px solid #e5e7ea;
+    background-color: #ffffff;
+    &:hover {
+      background-color: #f5f5f5;
+    }
+
+    &:active {
+      background: #299764;
+      color: white;
+    }
+  }
+
+  &__wrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  &__card {
+    width: 350px;
+    background-color: #f5f5f5;
+    padding: 30px 24px;
+    border-radius: 16px;
+    &:hover {
+      background-color: #299764;
+    }
+  }
+
+  &__img {
+    width: 300px;
+  }
+
+  &__title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: left;
+    color: var(--text-color);
+  }
+
+  &__info {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  &__box {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  &__filter {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: var(--text-color);
+    display: flex;
+    gap: 15px;
+    &::before {
+      @include before-after();
+    }
+
+    &__img {
+      display: flex;
+      justify-content: center;
+      width: 300px;
+    }
+  }
+
+  .fil1::before {
+    background-image: url(../image/choose-img1.svg);
+  }
+  .fil2::before {
+    background-image: url(../image/choose-img2.svg);
+  }
+  .fil3::before {
+    background-image: url(../image/choose-img3.svg);
+  }
+  .fil4::before {
+    background-image: url(../image/choose-img4.svg);
+  }
+}
+
+@media only screen and (max-width: 1240px) {
+  .choose {
+    &__wrapper {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .choose {
+    &__btn {
+      padding: 10px 20px;
+    }
+
+    &__card {
+      width: 320px;
+    }
+
+    &__img {
+      width: 250px;
+    }
+  }
+}
